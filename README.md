@@ -9,3 +9,10 @@ This project demonstrates an Agentic AI that can solve math problems using **Lan
 - Modular structure (`agents/`, `tools/`, `app.py`)
 
 ## 📂 Project Structure
+MATHSOLVER_AGENT/
+│── agents/
+│ └── mathagent.py
+│── tools/
+│ └── mathsolver.py
+│── app.py
+│── .env (not included)
